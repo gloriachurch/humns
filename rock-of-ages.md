@@ -1,4 +1,5 @@
 # Всевышнему слава / To God be the glory
+
 ## Русская версия  
 
 ### 1
@@ -62,4 +63,4 @@ When my eyes shall close in death,
 While I rise to worlds unknown,  
 And behold Thee on Thy throne,  
 Rock of Ages, cleft for me,  
-Let me hide myself in Thee.
+Let me hide myself in Thee.  
