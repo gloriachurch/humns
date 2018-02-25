@@ -1,3 +1,4 @@
 site_name: Гимны
 theme: readthedocs
-plugins: []
+plugins: 
+  - awesome-pages
