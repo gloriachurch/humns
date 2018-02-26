@@ -8,6 +8,6 @@ theme:
     primary: 'brown'
     accent: 'Deep Orange'
   language: 'ru'
-  extra:
+extra:
   search:
-    language: 'en, ru'
+    language: 'ru, en'
