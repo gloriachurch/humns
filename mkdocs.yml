@@ -1,4 +1,4 @@
 site_name: Сборник гимнов
-theme: readthedocs
+theme: material
 plugins: 
   - awesome-pages
