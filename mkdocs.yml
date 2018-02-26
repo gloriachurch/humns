@@ -1,4 +1,13 @@
 site_name: Сборник гимнов
-theme: material
 plugins: 
   - awesome-pages
+  - search
+theme:
+  name : 'material'
+  palette:
+    primary: 'brown'
+    accent: 'Deep Orange'
+  language: 'ru'
+  extra:
+  search:
+    language: 'en, ru'
