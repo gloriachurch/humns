@@ -10,4 +10,4 @@ theme:
   language: 'ru'
 extra:
   search:
-    language: 'ru'
+    language: 'ru, en'
