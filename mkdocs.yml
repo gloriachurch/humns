@@ -1,4 +1,5 @@
 site_name: Сборник песен
+site_dir: songbook
 plugins: 
   - awesome-pages
   - search  
