@@ -10,5 +10,4 @@ theme:
   language: 'ru'
 extra:
   search:
-    language: 'ru, en'
-    tokenizer: '[\s\-\.]+'
+    language: 'ru'
