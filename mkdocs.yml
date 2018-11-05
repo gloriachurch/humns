@@ -9,6 +9,6 @@ theme:
     primary: 'brown'
     accent: 'Deep Orange'
   language: 'ru'
-extra:
-  search:
-    language: 'ru, en'
+#extra:
+#  search:
+#    language: 'ru, en'
