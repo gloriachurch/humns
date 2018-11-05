@@ -2,7 +2,7 @@ site_name: Сборник песен
 site_dir: songbook
 plugins: 
   - awesome-pages
-  - search  
+#  - search  
 theme:
   name : 'material'
   palette:
@@ -11,4 +11,4 @@ theme:
   language: 'ru'
 #extra:
 #  search:
-#    language: 'ru, en'
+#    language: 'ru, en'  
